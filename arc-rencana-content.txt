@@ -3,7 +3,10 @@ Rencana Konten Arc
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Dasar
 - PHP Framework
+    ^ Laravel
 - Interview
 - Vlogs
+- Python
