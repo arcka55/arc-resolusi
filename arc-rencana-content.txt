@@ -4,6 +4,7 @@ Rencana Konten Arc
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Struktur Dasar
 - PHP Framework
     ^ Laravel
